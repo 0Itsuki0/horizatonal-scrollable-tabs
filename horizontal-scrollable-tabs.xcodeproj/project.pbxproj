@@ -13,6 +13,8 @@
 		981A8EFA2B3068EB008CC4C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 981A8EF82B3068EB008CC4C7 /* Main.storyboard */; };
 		981A8EFC2B3068EC008CC4C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 981A8EFB2B3068EC008CC4C7 /* Assets.xcassets */; };
 		981A8EFF2B3068EC008CC4C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 981A8EFD2B3068EC008CC4C7 /* LaunchScreen.storyboard */; };
+		981A8F082B306912008CC4C7 /* TabButtonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 981A8F062B306912008CC4C7 /* TabButtonCell.swift */; };
+		981A8F092B306912008CC4C7 /* TabButtonCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 981A8F072B306912008CC4C7 /* TabButtonCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		981A8EFB2B3068EC008CC4C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		981A8EFE2B3068EC008CC4C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		981A8F002B3068EC008CC4C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		981A8F062B306912008CC4C7 /* TabButtonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabButtonCell.swift; sourceTree = "<group>"; };
+		981A8F072B306912008CC4C7 /* TabButtonCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TabButtonCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				981A8EF42B3068EB008CC4C7 /* SceneDelegate.swift */,
 				981A8EF62B3068EB008CC4C7 /* ViewController.swift */,
 				981A8EF82B3068EB008CC4C7 /* Main.storyboard */,
+				981A8F062B306912008CC4C7 /* TabButtonCell.swift */,
+				981A8F072B306912008CC4C7 /* TabButtonCell.xib */,
 				981A8EFB2B3068EC008CC4C7 /* Assets.xcassets */,
 				981A8EFD2B3068EC008CC4C7 /* LaunchScreen.storyboard */,
 				981A8F002B3068EC008CC4C7 /* Info.plist */,
@@ -128,6 +134,7 @@
 				981A8EFF2B3068EC008CC4C7 /* LaunchScreen.storyboard in Resources */,
 				981A8EFC2B3068EC008CC4C7 /* Assets.xcassets in Resources */,
 				981A8EFA2B3068EB008CC4C7 /* Main.storyboard in Resources */,
+				981A8F092B306912008CC4C7 /* TabButtonCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 				981A8EF72B3068EB008CC4C7 /* ViewController.swift in Sources */,
 				981A8EF32B3068EB008CC4C7 /* AppDelegate.swift in Sources */,
 				981A8EF52B3068EB008CC4C7 /* SceneDelegate.swift in Sources */,
+				981A8F082B306912008CC4C7 /* TabButtonCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
